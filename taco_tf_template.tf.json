@@ -1,0 +1,1 @@
+{"resource": {"la": {"la": {"foo": {"local-exec": {"command": "echo peace"}}}}}}
